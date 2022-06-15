@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#skill, #contact, #about{
+    border: 2px solid black;
+    padding: 100px;
+}
+li{
+    list-style: none;
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    height: 50px;
+}
+ul div{
+    border-right: 1px solid black;
+    display: flex;
+    align-items: center;
+}
+ul a{
+    padding: 25px;
+}

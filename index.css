@@ -24,7 +24,7 @@ li{
 }
 div.border{
     border-right: 2px solid white;
-    padding-right: 90px;
+    padding:5px 140px;
     justify-content: center;
 }
 ul a{
